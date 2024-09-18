@@ -3,5 +3,5 @@
     "description" : "Removes barriers and invisible walls on the second floor.",
     "version_number" : "1.0.0",
     "dependencies" : ["BepInEx-BepInExPack-5.4.2100"],
-    "website_url" : ""
+    "website_url" : "https://github.com/DeveloperBlue/ATTUnlockedSecondFloor"
 }
